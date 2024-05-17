@@ -32,4 +32,13 @@ Follow these steps to run the project locally:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/todo-list-app.git
+   
+   https://github.com/Maha-emad/ToDo-List.git
+
+## Contributions
+
+Contributions are welcome! If you have any suggestions or improvements, please feel free to submit a pull request or open an issue.
+
+## Contact
+
+If you have any questions or feedback, please reach out to me at [mahaemadsaeed@gmail.com].
